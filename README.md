@@ -2,7 +2,7 @@
 - 🌱 I’m a front-end developement student in Umeå, Sweden.
 - 👀 Currently looking for LIA-praktik in Stockholm for beginning of 2022.
 
-- 📄 [cv.read](www.cv.read)
+- 📄 [read.cv](www.read.cv)
 - 🎨 [Figma](www.figma.com/jazzjacob)
 
 

@@ -3,7 +3,7 @@
 - 👀 Currently looking for LIA-praktik in Stockholm for beginning of 2022.
 
 - 📄 [read.cv](https://www.read.cv/jacoblindstrom)
-- 🎨 [Figma](https://www.figma.com/jazzjacob)
+- 🎨 [Figma](https://www.figma.com/@jazzjacob)
 
 
 <!---

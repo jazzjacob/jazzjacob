@@ -1,4 +1,4 @@
-- 👋 Hello there, I’m Jacob Reinikainen Lindström.
+- 🤘 Hello there, I’m Jacob Reinikainen Lindström.
 - 🌱 I’m a front-end developement student in Umeå, Sweden.
 - 👀 Currently looking for LIA-praktik in Stockholm for beginning of 2022.
 

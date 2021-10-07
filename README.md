@@ -1,6 +1,6 @@
 - 🤘 Hello there, I’m Jacob Reinikainen Lindström.
 - 🌱 I’m a front-end developement student in Umeå, Sweden.
-- 👀 Currently looking for LIA-praktik in Stockholm for beginning of 2022.
+- 👀 Currently looking for internship (LIA-praktik) in Stockholm for beginning of 2022.
 
 - 📄 [read.cv](https://www.read.cv/jacoblindstrom)
 - 🎨 [Figma](https://www.figma.com/@jazzjacob)

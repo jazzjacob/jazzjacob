@@ -1,7 +1,7 @@
 - 🤘 Hello there, I’m Jacob Reinikainen Lindström.
 - 🌱 I’m an interaction design student in Stockholm, Sweden.
 
-- 📄 [read.cv](https://www.read.cv/jacoblindstrom)
+- 📄 My [read.cv](https://www.read.cv/jacoblindstrom)
 
 
 <!---

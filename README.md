@@ -1,5 +1,5 @@
 - 🤘 Hello there, I’m Jacob Reinikainen Lindström.
-- 🌱 I’m a front-end developer student in Stockholm, Sweden.
+- 🌱 I’m an interaction design student in Stockholm, Sweden.
 
 - 📄 [read.cv](https://www.read.cv/jacoblindstrom)
 
